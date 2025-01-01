@@ -1,6 +1,5 @@
-# Milestone 1: Data Ingestion System (Apache Kafka)
-## Repository: 
-[https://github.com/GeorgeDaoud3/SOFE4630U-MS1](https://github.com/GeorgeDaoud3/SOFE4630U-MS1)
+# Lab 1: Data Ingestion System (Apache Kafka)
+
 ## Objectives
 1.	Understand the role of Data Ingestion System in Event Driven Architecture.
 2.	Get familiar with Kafka and its terminologies. 
